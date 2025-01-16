@@ -5,13 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=webcreation-dev" alt="webcreation-dev" /></a> </p>
 
-- 🔭 I’m currently working on [ERP ONAB BENIN](http://testonab.sc1anbl8800.universe.wf)
-
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **DevOps**
 
 - 👨‍💻 All of my projects are available at [https://webcreation-dev.github.io/](https://webcreation-dev.github.io/)
 
-- 💬 Ask me about **Laravel, React JS, MySQL**
+- 💬 Ask me about **Laravel, NestJS, Docker, Kubernetes, Microservices Architecture**
 
 - 📫 How to reach me **adjilan2403@gmail.com**
 
